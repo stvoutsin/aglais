@@ -40,7 +40,6 @@ pushd projects/aglais-stvoutsin
     git remote add upstream git://github.com/wfau/aglais.git
     git fetch upstream
     git merge upstream/master master
-    git rebase upstream/master
     git push
 
 	> Total 0 (delta 0), reused 0 (delta 0)
